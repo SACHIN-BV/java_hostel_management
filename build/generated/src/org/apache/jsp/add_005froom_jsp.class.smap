@@ -1,0 +1,28 @@
+SMAP
+add_005froom_jsp.java
+JSP
+*S JSP
+*F
++ 0 add_room.jsp
+add_room.jsp
++ 1 header.jsp
+header.jsp
++ 2 footer.jsp
+footer.jsp
+*L
+5,16:51
+1#1:67
+1,5:68
+5,29:73
+34,4:103
+37,57:107
+94,2:165
+20#0,19:167
+39,8:187
+46,28:195
+1#2,14:223
+14,8:237
+22:245,6
+23,5:251
+73#0,2:256
+*E

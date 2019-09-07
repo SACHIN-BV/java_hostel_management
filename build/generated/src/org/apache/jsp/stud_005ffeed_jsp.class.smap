@@ -1,0 +1,26 @@
+SMAP
+stud_005ffeed_jsp.java
+JSP
+*S JSP
+*F
++ 0 stud_feed.jsp
+stud_feed.jsp
++ 1 header.jsp
+header.jsp
++ 2 footer.jsp
+footer.jsp
+*L
+5,16:51
+1#1:67
+1,5:68
+5,28:73
+33,4:102
+36,49:106
+85,2:156
+20#0,36:158
+1#2,14:194
+14,8:208
+22:216,6
+23,5:222
+55#0,3:227
+*E
